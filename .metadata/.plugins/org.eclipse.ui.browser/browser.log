@@ -1,0 +1,13 @@
+
+10월 19, 2023 23:47:13.796 NEW SESSION
+10월 19, 2023 23:47:13.797 [12708:15396:1019/234713.795:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for de.inmobi.com failed:
+10월 19, 2023 23:47:13.797 ----- Certificate i=0 (CN=Kubernetes Ingress Controller Fake Certificate,O=Acme Co) -----
+10월 19, 2023 23:47:13.797 ERROR: No matching issuer found
+10월 19, 2023 23:47:13.797 
+10월 19, 2023 23:47:13.797 
+
+10월 25, 2023 15:41:40.212 NEW SESSION
+10월 25, 2023 15:41:40.213 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 25, 2023 15:51:45.501 [6828:3584:1025/155145.501:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+10월 25, 2023 17:06:48.720 [6828:440:1025/170648.720:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+10월 25, 2023 21:36:48.354 [6828:3584:1025/213648.354:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
